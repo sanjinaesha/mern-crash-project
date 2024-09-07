@@ -1,0 +1,2 @@
+### DELETE Request
+DELETE http://localhost:5000/api/products/66dbf40c168e1c1a2ed8a55b
